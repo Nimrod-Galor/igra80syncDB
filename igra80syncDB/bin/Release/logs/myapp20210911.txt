@@ -1,0 +1,6 @@
+2021-09-11 11:02:16.671 +03:00 [INF] refnum: 5
+2021-09-11 11:02:23.014 +03:00 [INF] refnum: 6
+2021-09-11 11:02:32.423 +03:00 [INF] refnum: 7
+2021-09-11 11:02:32.513 +03:00 [DBG] Error: Cannot insert the value NULL into column 'Msg', table 'catest.dbo.igra80'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+2021-09-11 11:02:43.921 +03:00 [INF] refnum: 1

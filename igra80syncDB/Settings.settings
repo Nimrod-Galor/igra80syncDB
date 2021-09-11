@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="igra80syncDB" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="serverName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DESKTOP-FPN0LBR</Value>
+    </Setting>
+    <Setting Name="dbName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">catest</Value>
+    </Setting>
+    <Setting Name="userName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">testnim</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">testnim</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

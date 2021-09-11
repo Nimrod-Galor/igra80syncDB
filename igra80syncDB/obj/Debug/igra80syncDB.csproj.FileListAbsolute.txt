@@ -1,0 +1,15 @@
+C:\Users\Nimrod\Documents\Visual Studio 2017\Projects\igra80syncDB\igra80syncDB\bin\Debug\igra80syncDB.exe.config
+C:\Users\Nimrod\Documents\Visual Studio 2017\Projects\igra80syncDB\igra80syncDB\bin\Debug\igra80syncDB.exe
+C:\Users\Nimrod\Documents\Visual Studio 2017\Projects\igra80syncDB\igra80syncDB\bin\Debug\igra80syncDB.pdb
+C:\Users\Nimrod\Documents\Visual Studio 2017\Projects\igra80syncDB\igra80syncDB\bin\Debug\Serilog.dll
+C:\Users\Nimrod\Documents\Visual Studio 2017\Projects\igra80syncDB\igra80syncDB\bin\Debug\Serilog.Sinks.Console.dll
+C:\Users\Nimrod\Documents\Visual Studio 2017\Projects\igra80syncDB\igra80syncDB\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\Nimrod\Documents\Visual Studio 2017\Projects\igra80syncDB\igra80syncDB\bin\Debug\Serilog.xml
+C:\Users\Nimrod\Documents\Visual Studio 2017\Projects\igra80syncDB\igra80syncDB\bin\Debug\Serilog.Sinks.Console.xml
+C:\Users\Nimrod\Documents\Visual Studio 2017\Projects\igra80syncDB\igra80syncDB\bin\Debug\Serilog.Sinks.File.pdb
+C:\Users\Nimrod\Documents\Visual Studio 2017\Projects\igra80syncDB\igra80syncDB\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\Nimrod\Documents\Visual Studio 2017\Projects\igra80syncDB\igra80syncDB\obj\Debug\igra80syncDB.csprojAssemblyReference.cache
+C:\Users\Nimrod\Documents\Visual Studio 2017\Projects\igra80syncDB\igra80syncDB\obj\Debug\igra80syncDB.csproj.CoreCompileInputs.cache
+C:\Users\Nimrod\Documents\Visual Studio 2017\Projects\igra80syncDB\igra80syncDB\obj\Debug\igra80syncDB.csproj.CopyComplete
+C:\Users\Nimrod\Documents\Visual Studio 2017\Projects\igra80syncDB\igra80syncDB\obj\Debug\igra80syncDB.exe
+C:\Users\Nimrod\Documents\Visual Studio 2017\Projects\igra80syncDB\igra80syncDB\obj\Debug\igra80syncDB.pdb
